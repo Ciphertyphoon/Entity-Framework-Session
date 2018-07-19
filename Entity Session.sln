@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizetablesCode1", "Cus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleModelChanges", "HandleModelChanges\HandleModelChanges.csproj", "{4FDE75C7-A62A-4594-92C5-956D87A09E53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedDatabase", "SeedDatabase\SeedDatabase.csproj", "{49FDAC09-B6AB-439D-A802-EACF1E574C11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoredProcSchemaFST", "StoredProcSchemaFST\StoredProcSchemaFST.csproj", "{A5F77D1C-E8AB-4E3F-B7C8-32EF25FD16D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{4FDE75C7-A62A-4594-92C5-956D87A09E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FDE75C7-A62A-4594-92C5-956D87A09E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FDE75C7-A62A-4594-92C5-956D87A09E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FDAC09-B6AB-439D-A802-EACF1E574C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FDAC09-B6AB-439D-A802-EACF1E574C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FDAC09-B6AB-439D-A802-EACF1E574C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FDAC09-B6AB-439D-A802-EACF1E574C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F77D1C-E8AB-4E3F-B7C8-32EF25FD16D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F77D1C-E8AB-4E3F-B7C8-32EF25FD16D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F77D1C-E8AB-4E3F-B7C8-32EF25FD16D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F77D1C-E8AB-4E3F-B7C8-32EF25FD16D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
