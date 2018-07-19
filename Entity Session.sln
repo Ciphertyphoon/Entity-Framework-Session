@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code1stWebApplication", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomizetablesCode1", "CustomizetablesCode1\CustomizetablesCode1.csproj", "{E63700D6-DB3F-4778-8FF3-1EE8005F5E3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleModelChanges", "HandleModelChanges\HandleModelChanges.csproj", "{4FDE75C7-A62A-4594-92C5-956D87A09E53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E63700D6-DB3F-4778-8FF3-1EE8005F5E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E63700D6-DB3F-4778-8FF3-1EE8005F5E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E63700D6-DB3F-4778-8FF3-1EE8005F5E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDE75C7-A62A-4594-92C5-956D87A09E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDE75C7-A62A-4594-92C5-956D87A09E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDE75C7-A62A-4594-92C5-956D87A09E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDE75C7-A62A-4594-92C5-956D87A09E53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

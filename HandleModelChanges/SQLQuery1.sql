@@ -1,0 +1,11 @@
+Insert into Departments values ('IT', 'New York')
+Insert into Departments values ('HR', 'London')
+Insert into Departments values ('Payroll', 'Sydney')
+
+Insert into tblEmployes values ('Mark', 'Hastings', 'Male', 60000, 1, 'Developer')
+Insert into tblEmployes values ('Steve', 'Pound', 'Male', 45000, 3, 'Manager')
+Insert into tblEmployes values ('Ben', 'Hoskins', 'Male', 70000, 1, 'Developer')
+Insert into tblEmployes values ('Philip', 'Hastings', 'Male', 45000, 2, 'Recruiter')
+Insert into tblEmployes values ('Mary', 'Lambeth', 'Female', 30000, 2, 'Recruiter')
+Insert into tblEmployes values ('Valarie', 'Vikings', 'Female', 35000, 3, 'Manager')
+Insert into tblEmployes values ('John', 'Stanmore', 'Male', 80000, 1, 'Developer')
